@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm Benaresa!
 
-<!--
-**Benaresa-arisa/Benaresa-arisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Freelancer | Graphic Designer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student passionate about technology, software development, graphic design, and building solutions that solve real-world problems.
+
+## 🚀 About Me
+
+
+- 💻 Learning software development and programming.
+- 🎨 Working as a freelancer and graphic designer.
+- 🔗 Exploring blockchain technology and secure certificate verification.
+- 🌱 Always learning new technologies and improving my skills.
+- 🤝 Open to learning, collaboration, and exciting projects.
+
+## 🛠️ Areas of Interest
+
+- Software Development
+- Web Development
+- Blockchain Technology
+- Artificial Intelligence
+- Database Systems
+- Graphic Design
+
+## 📌 Featured Project
+
+### 🔐 Blockchain-Based Certificate Verification System
+
+A project aimed at helping institutions issue and verify academic certificates securely, making certificate forgery easier to detect.
+
+**Goal:** Build a reliable system that helps employers and authorized users verify the authenticity of academic certificates.
+
+*More projects coming soon! 🚀*
+
+## 🎯 My Mission
+
+
+To use technology, creativity, and continuous learning to build useful digital solutions and grow as a software developer.
+
+## 🤝 Let's Connect
+
+- GitHub: (https://github.com/benaresa-arisa)
+- Location: Kenya 🇰🇪
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey in technology.
